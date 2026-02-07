@@ -34,7 +34,11 @@ You can click the Preview link to take a look at your changes.
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/jayani-narayanan">
-    <img src="https://img.shields.io/badge/Jayani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+<a href="https://medium.com/@hckr8079">
+    <img src="https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium"/>
   </a>
 
 
