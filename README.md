@@ -36,11 +36,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/jayani-narayanan">
     <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/zanepearton">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Portfolio"/>
-  </a>
+
 <a href="https://medium.com/@hckr8079">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium?style=social&link=https%3A%2F%2Fmedium.com%2F%40hckr8079" alt="Medium"/>
 
 </div>
 
