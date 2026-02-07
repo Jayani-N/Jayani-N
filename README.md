@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
+    <h2>About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>Goal-oriented IT professional with hands-on experience in cybersecurity, software development, and network security.</p>
 </div>
@@ -40,12 +40,12 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Portfolio"/>
   </a>
 <a href="https://medium.com/@hckr8079">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge" alt="Medium"/>
 
 </div>
 
 <div align="center">
-  <h2>🚀 Github Commits</h2>
+  <h2>Github Commits</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
